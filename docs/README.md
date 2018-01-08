@@ -1,52 +1,55 @@
-# Clear View Escapes
+# [Clear View Escapes](https://gk-hynes.github.io/travel-site/)
 
-### A sample travel site built for Brad Schiff's _Git a Web Developer Job: Mastering the Modern Workflow_ course. 
+## A sample travel site built for Brad Schiff's _Git a Web Developer Job: Mastering the Modern Workflow_ course.
 
-![Clear View Escapes Screenshot](https://screenshots.firefox.com/j1y08aDnQBYIGamo/gk-hynes.github.io)
+![Clear View Escapes Screenshot](https://res.cloudinary.com/gerhynes/image/upload/v1515449559/Clear_View_Escapes_pyma0y.jpg)
 
 ## Built with:
 
-* Git - for version control
-* Node - to automate tasks
-* Gulp - 
-* PostCSS - 
-* Browsersync - 
-* Webpack - 
-* Babel - 
-* Waypoints
-* Flexbox - 
+* Node - to automate tasks and manage packages
+* Gulp - to automate build tasks
+* PostCSS - to add CSS postprocessing
+* Webpack -
+* Babel -
+* Flexbox -
+* Waypoints -
+* Browsersync -
 
-## Skills learned 
+## Skills learned
 
 ### Version Control with Git
-I went from knowing the basics of Git to making it part of my daily routine. 
+
+I went from knowing the basics of Git to making it part of my daily routine, building each feature on its own branch and and regularly pushing changes to GitHub.
 
 ### Mobile-first Development
 
+I optimized the site from the perspective of both performance and responsiveness.
+
 * #### Custom CSS
-    The site features a custom-built, responsive 12 column grid without using Bootstrap. 
+
+  The site features a custom-built, responsive 12 column grid without using Bootstrap.
 
 * #### BEM
-    Super organized CSS using the BEM methodology. 
+
+  I learned how to keep my CSS organized, maintainable, and easier to read using the BEM (Block Element Modifier) methodology.
 
 * #### Flexbox
 
+* #### Lazy loading
+  Speed up load times and save users' data plans by only loading images when the user scrolls to that point.
+
 ### Automating build tasks with Gulp
-I used Gulp to automate everything. SVG sprites. imagemin
+
+I used Gulp to automate everything, leveraging packages such as imagemin, usemin, rev, cssnano and uglify to process my code and ensure fast loadtimes.
 
 ### Organized, modern JavaScript
-Super organized, modular, ES6 JavaScript. 
 
-### Lazy loading 
-Speed up load times and save users' data plans by only loading images when the user scrolls to that point. 
+Super organized, modular, ES6 JavaScript.
 
 ### Legacy Browser Support
 
-### Deploying sites to GitHub pages
-You can see a live version of the site running [here](https://gk-hynes.github.io/travel-site/)
+Despite using ES6 and Flexbox, this site will still work
 
+### Deploying sites to GitHub Pages
 
-
-
-
-
+You can see a live version of the site running [here](https://gk-hynes.github.io/travel-site/).
